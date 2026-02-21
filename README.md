@@ -29,7 +29,12 @@ Analyze stock market data using natural language commands with automated technic
 
 ## 🛠 Tech Stack
 
-Python • Streamlit • Pandas • NumPy • Plotly • yFinance
+• Python 
+• Streamlit 
+• Pandas 
+• NumPy 
+• Plotly 
+• yFinance
 
 ---
 
@@ -53,7 +58,8 @@ ai-market-dashboard/
 ---
 
 ## ⚡ Run Locally
--pip install -r requirements.txt
+-pip install 
+-r requirements.txt
 -streamlit run app.py
 
 ---
