@@ -59,18 +59,21 @@ Signal output:
 ---
 
 ## 📊 Project Structure
+
+```
 ai-market-dashboard/
 │
 ├── src/
-│ ├── finance.py # Financial calculations
-│ ├── parser.py # Natural language command parsing
-│ ├── charts.py # Plotly chart generation
-│ ├── report.py # PDF report builder
+│   ├── finance.py      # Financial calculations
+│   ├── parser.py       # Natural language command parsing
+│   ├── charts.py       # Plotly chart generation
+│   └── report.py       # PDF report builder
 │
-├── app.py # Main Streamlit app
+├── app.py              # Main Streamlit app
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
   
 ---
