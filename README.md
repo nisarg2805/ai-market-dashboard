@@ -59,25 +59,25 @@ Signal output:
 ---
 
 ## 📊 Project Structure
-  ai-market-dashboard/
-  │
-  ├── src/
-  │ ├── finance.py # Financial calculations
-  │ ├── parser.py # Natural language command parsing
-  │ ├── charts.py # Plotly chart generation
-  │ ├── report.py # PDF report builder
-  │
-  ├── app.py # Main Streamlit app
-  ├── requirements.txt
-  ├── .gitignore
-  └── README.md
+ai-market-dashboard/
+│
+├── src/
+│ ├── finance.py # Financial calculations
+│ ├── parser.py # Natural language command parsing
+│ ├── charts.py # Plotly chart generation
+│ ├── report.py # PDF report builder
+│
+├── app.py # Main Streamlit app
+├── requirements.txt
+├── .gitignore
+└── README.md
+
   
 ---
 
 ## ⚡ Installation (Local Setup)
 
-### 1️⃣ Clone the repository
-        https://github.com/nisarg2805/ai-market-dashboard.git
+### 1️⃣ Clone the repository: https://github.com/nisarg2805/ai-market-dashboard.git
 
 
 ---
