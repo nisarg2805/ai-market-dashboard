@@ -57,10 +57,12 @@ ai-market-dashboard/
 ---
 
 ## ⚡ Run Locally
--pip install 
--r requirements.txt
--streamlit run app.py
 
+```
+pip install
+r requirements.txt
+streamlit run app.py
+```
 ---
 
 ## ⚠️ Disclaimer
